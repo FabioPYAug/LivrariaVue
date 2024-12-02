@@ -53,3 +53,4 @@ h1 {
   }
 }
 </style>
+<passage-auth app-id="seu_app_id"></passage-auth>
